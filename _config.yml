@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Zé Olinda
 title: Professor
 email: jose.olinda@ifce.edu.br
-phone: (88) 3564-100 Ramal 240
+Telefone: (88) 3564-100 Ramal 240
 website: ifce.edu.br/cedro
 
 # Social links
@@ -19,7 +19,7 @@ flickr_username: joseolinda
 linkedin_username: joseolinda
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: joseolinda
+# youtube_username: joseolinda
 # googleplus_username: +jekyll
 
 # About Section
