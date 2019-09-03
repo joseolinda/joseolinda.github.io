@@ -4,18 +4,19 @@
   link: https://ru.cedro.ifce.edu.br
   github: github.com/joseolinda/RUTicket (PRIVATE)
   quote: >
-    Sistema de Solicitação de Refeições do IFCE Campus CEdro
+    Sistema de Solicitação de Refeições do IFCE Campus Cedro
   description: | # this will include new lines to allow paragraphs
     Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
     o framework MaterializeCSS.
 
 - layout: top-left
   name: LEDS - Laboratório de Engenhara e Desenvolvimento Software
-  link: https://ru.cedro.ifce.edu.br
-  github: github.com/joseolinda/RUTicket (PRIVATE)
+  # link: https://ru.cedro.ifce.edu.br
+  # github: github.com/joseolinda/RUTicket (PRIVATE)
   quote: >
-    Sistema de Solicitação de Refeições do IFCE Campus CEdro
+    Programa de Extensão para dar suporte ao desenvolvimento de software do IFCE Campus Cedro
   description: | # this will include new lines to allow paragraphs
-    Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
-    o framework MaterializeCSS.
+    O programa Laboratório de Engenharia e Desenvolvimento de Software foi criado para auxiliar os alunos
+    do IFCE Campus Cedro que querem desenvolver um software, mas não sabem como começar. O LEDS oferecerá suporter
+    e ferramentas para auxiliar na execussão do projeto.
 
