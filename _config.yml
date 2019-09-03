@@ -3,24 +3,24 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Zé Olinda
+title: Professor
+email: jose.olinda@ifce.edu.br
+phone: (88) 3564-100 Ramal 240
+website: ifce.edu.br/cedro
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+twitter_username: joseolinda
+github_username:  joseolinda
+dribbble_username: joseolinda
+# facebook_username: jekyll
+flickr_username: joseolinda
+# instagram_username: jekyll
+linkedin_username: joseolinda
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: joseolinda
+# googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
