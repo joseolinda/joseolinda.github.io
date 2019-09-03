@@ -4,9 +4,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Zé Olinda
-title: Professor
+title: Professor IFCE Campus Cedro
 email: jose.olinda@ifce.edu.br
-Telefone: (88) 3564-100 Ramal 240
+phone: (88) 3564-100 Ramal 240
 website: ifce.edu.br/cedro
 
 # Social links
@@ -23,8 +23,8 @@ linkedin_username: joseolinda
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_title: Sobre Mim
+about_profile_image: assets/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
