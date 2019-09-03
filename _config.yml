@@ -26,13 +26,20 @@ linkedin_username: joseolinda
 about_title: Sobre Mim
 about_profile_image: assets/images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Professor EBTT no Instituto Federal de Educação Ciência e Tecnologia do Ceará - IFCE Campus Cedro.
+  Graduado em Análise e Desenvolvimento de Sistemas pela Univerdidade Estácio de Sá. Curso Especialização
+  em Engenharia de Software.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Minnistra as seguintes disciplinas:
+    - Programação ORientada a Objetos
+    - Programação para Web I
+    - Programação para Web II
+
+  Áreas de interesse:
+    - Engenhria de Software
+    - Programação para Web
+    - Programação para Dispositivos Móveis
+    - Informática na Educação
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
