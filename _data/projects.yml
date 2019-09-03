@@ -1,9 +1,20 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: RU Ticket
+  link: https://ru.cedro.ifce.edu.br
+  github: github.com/joseolinda/RUTicket (PRIVATE)
   quote: >
-    Short overview of the project (optional)
+    Sistema de Solicitação de Refeições do IFCE Campus CEdro
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
+    o framework MaterializeCSS.
+
+  name: LEDS - Laboratório de Engenhara e Desenvolvimento Software
+  link: https://ru.cedro.ifce.edu.br
+  github: github.com/joseolinda/RUTicket (PRIVATE)
+  quote: >
+    Sistema de Solicitação de Refeições do IFCE Campus CEdro
+  description: | # this will include new lines to allow paragraphs
+    Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
+    o framework MaterializeCSS.
+
