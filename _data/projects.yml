@@ -1,15 +1,15 @@
 # Project template
-#- layout: top-left
-#  name: RU Ticket
-#  link: https://ru.cedro.ifce.edu.br
-#  github: github.com/joseolinda/RUTicket (PRIVATE)
-#  quote: >
-#    Sistema de Solicitação de Refeições do IFCE Campus Cedro
-#  description: | # this will include new lines to allow paragraphs
-#    Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
-#    o framework MaterializeCSS.
+- layout: top-right
+  name: RU Ticket
+  link: https://ru.cedro.ifce.edu.br
+  # github: github.com/joseolinda/RUTicket (PRIVATE)
+  quote: >
+    Sistema de Solicitação de Refeições do IFCE Campus Cedro
+  description: | # this will include new lines to allow paragraphs
+    Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
+    o framework MaterializeCSS.
 
-- layout: top-left
+- layout: top-right
   name: LEDS - Laboratório de Engenhara e Desenvolvimento Software
   # link: https://ru.cedro.ifce.edu.br
   # github: github.com/joseolinda/RUTicket (PRIVATE)
