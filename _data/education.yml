@@ -1,6 +1,6 @@
 # Education Template
 - layout: left
-  name: Universidade Estácio de Sá
+  name: Estácio de Sá
   dates: 2017 - 2019
   qualification: Especialização em Engenharia de Software
   quote: >
@@ -11,10 +11,10 @@
 
 
 - layout: left
-  name: Universidade Estácio de Sá
+  name: Estácio de Sá
   dates: 2013 - 2017
   qualification: Tecnologia em Análise e Desenvolvimento de Software
   quote: >
-    Curso de Graduação Tecnológica em Análise e Desenvolvimento de Software
+    Análise e Desenvolvimento de Software
   description: | # this will include new lines to allow paragraphs
     Curso de Graduação Tecnológica em Análise e Desenvolvimento de Software
