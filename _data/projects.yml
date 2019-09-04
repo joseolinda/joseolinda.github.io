@@ -1,5 +1,5 @@
 # Project template
-- layout: top-right
+- layout: top-middle
   name: RU Ticket
   link: https://ru.cedro.ifce.edu.br
   # github: github.com/joseolinda/RUTicket (PRIVATE)
@@ -9,7 +9,7 @@
     Sistema criado em `php` usando o framework Laravel. Para o fron-end, fora utilizado
     o framework MaterializeCSS.
 
-- layout: top-right
+- layout: top-middle
   name: LEDS - Laboratório de Engenhara e Desenvolvimento Software
   # link: https://ru.cedro.ifce.edu.br
   # github: github.com/joseolinda/RUTicket (PRIVATE)

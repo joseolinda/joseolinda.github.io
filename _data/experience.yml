@@ -1,10 +1,42 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: IFCE Campus Cedro
+  link: www.ifce.edu.br/cedro
+  job_title: Professor EBTT
+  dates: Abril de 2019 - Atualmente
   quote: >
-   Short description of the company (optional)
+   Professor de Metodologia e Técnicas de Computação
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Ministra as disciplinas:
+    - Programação Orientada a Objetos (Técnico de Informática)
+    - Programação para Web I (Sistemas de Informação)
+    - Programação para Web II (Sistemas de Informação)
+
+    Coordenador do curso Técnico Integrado ao Ensino Médio em Informática
+    Coordenador do Projeto LEDS - Laboratório de Engenharia e Desenvolvimento de Software
+
+- layout: left
+  company: Unilab
+  link: www.unilab.edu.br
+  job_title: Técnico em Tecnologia da Informação
+  dates: Outubro de 2014 - Abril de 2019
+  quote: >
+   Desenvolvedor front-end
+  description: | # this will include new lines to allow paragraphs
+    Realiza as mais diversas atividades de desenvolvimento, com foco no desenvolvimento para front-end
+    e uso do framework WordPress para criação de temas para sites institucionais.
+
+- layout: left
+  company: Senac CE
+  link: https://www.ce.senac.br/
+  job_title: Instrutor de Informática
+  dates: Janeiro de 2013 - Outubro de 2014
+  quote: >
+    Instrutor de informática
+  description: | # this will include new lines to allow paragraphs
+    Ministrava os cursos de:
+    - Operador de computador
+    - Informática básica
+    - Programador PHP
+    - Administrador de Banco de Dados
+    Ministrava as disciplinas de informática nos mais diversos cursos da instituição.
