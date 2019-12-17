@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Zé Olinda
+name: José Olinda da Silva
 title: Professor IFCE Campus Cedro
 email: jose.olinda@ifce.edu.br
 phone: (88) 3564-100 Ramal 240
@@ -14,7 +14,7 @@ twitter_username: joseolinda
 github_username:  joseolinda
 dribbble_username: joseolinda
 # facebook_username: jekyll
-flickr_username: joseolinda
+# flickr_username: joseolinda
 # instagram_username: jekyll
 linkedin_username: joseolinda
 # xing_username: jekyll
